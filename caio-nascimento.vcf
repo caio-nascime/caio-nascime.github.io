@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Nascimento;Caio Felipe Alcantara;;;
+FN:Caio Felipe Alcantara Nascimento
+TITLE:Estudante de Engenharia de Software
+ORG:Universidade de Brasília (UnB)
+TEL;TYPE=CELL:+5561998854358
+EMAIL;TYPE=INTERNET:caio.fa.nascimento@gmail.com
+URL:https://caio-nascime.github.io/
+item1.URL:https://www.linkedin.com/in/caio-felipe-alcantara-nascimento
+item1.X-ABLabel:LinkedIn
+item2.URL:https://github.com/caio-nascime
+item2.X-ABLabel:GitHub
+ADR;TYPE=HOME:;;;Brasília;DF;;Brasil
+NOTE:Nos conhecemos no evento de tecnologia do Banco do Brasil, em Brasília.
+END:VCARD
